@@ -1,3 +1,3 @@
 # worod2vec_gensim
 基于gensim和中文wikidata训练自己的word2vec 
-该项目使用结巴分词将中文wikidata进行分词并保存，然后使用gensim训练自己的word2vec模型，训练好的模型可以进行分类等任务
+该项目使用结巴分词将中文wikidata进行分词并保存，然后使用gensim训练自己的word2vec模型，训练好的模型可以进行分类等任务,文件路径需要自己修改
